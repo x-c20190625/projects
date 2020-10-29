@@ -2,7 +2,7 @@
 
 # 项目锦集
 
-![logo](public/asset/logo-mini2.png)
+![logo](docs/asset/logo-mini2.png)
 
 [![npm][npm]][github-url]
 [![node][node]][node-url]
