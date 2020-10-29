@@ -44,6 +44,6 @@
 
 ## 关于
 - [xyueji] https://xyueji.github.io/
-- [Dayesahh]: https://dayesahh.github.io/
+- [Dayesahh] https://dayesahh.github.io/
 [xyueji]: https://xyueji.github.io/
 [Dayesahh]: https://dayesahh.github.io/
