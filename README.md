@@ -28,13 +28,13 @@
 - [插件市场] 目前已经完成的插件。
 - [好的文章] 把我觉得好的 webpack 的文章整理到我的 wiki 里，也可以在项目中点击 wiki 查看。
 
-[项目计划]: https://github.com/luoxue-victor/webpack-box/projects/1
-[开发指南]: ./docs/课时-25.md
-[插件市场]: https://www.npmjs.com/search?q=%40pkb
-[好的文章]: https://github.com/luoxue-victor/webpack-box/wiki
+[项目计划]: https://github.com/orgs/x-c20190625/projects/1
+[开发指南]: ./docs
+[资源导航]: https://xyueji.github.io/navigation
+[参考文章]: ./docs
 
 [npm-url]: https://www.npmjs.com/package/webpack-box
-[issue-url]: https://github.com/luoxue-victor/webpack-box/issues
+[issue-url]: https://github.com/x-c20190625/projects/issues
 [node]: https://img.shields.io/node/v/webpack.svg
 [node-url]: https://nodejs.org
 [github-url]: https://github.com/luoxue-victor/webpack-box
@@ -43,5 +43,7 @@
 [issue]: https://img.shields.io/github/issues/luoxue-victor/webpack-box
 
 ## 关于
+- [xyueji] https://xyueji.github.io/
+- [Dayesahh]: https://dayesahh.github.io/
 [xyueji]: https://xyueji.github.io/
 [Dayesahh]: https://dayesahh.github.io/
