@@ -1,7 +1,5 @@
-# 项目锦集
 <div align="center">
-
-# 制定你自己的前端工作流
+# 项目锦集
 
 ![logo](public/asset/logo-mini2.png)
 
